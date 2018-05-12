@@ -6,18 +6,20 @@ covers:
 creator:
   authors:
   - agent_name: Cecil, Florence Mary (Bootle-Wilbraham), Lady
-    birthdate: &id001 1863
+    birthdate: 1863
     gutenberg_agent_id: '41411'
     url: http://www.gutenberg.org/2009/agents/41411
   - agent_name: Gascoyne-Cecil, William
     aliases:
     - Gascoyne-Cecil, Rupert William Ernest
     - Cecil, Rupert William Ernest Gascoyne
-    birthdate: *id001
+    birthdate: 1863
     deathdate: 1936
     gutenberg_agent_id: '41410'
     url: http://www.gutenberg.org/2009/agents/41410
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41878#Changing-China
 gutenberg_issued: '2013-01-19'
 gutenberg_type: Text
 identifiers:
