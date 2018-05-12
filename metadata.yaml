@@ -1,0 +1,35 @@
+_repo: Changing-China_41878
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41878-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Cecil, Florence Mary (Bootle-Wilbraham), Lady
+    birthdate: &id001 1863
+    gutenberg_agent_id: '41411'
+    url: http://www.gutenberg.org/2009/agents/41411
+  - agent_name: Gascoyne-Cecil, William
+    aliases:
+    - Gascoyne-Cecil, Rupert William Ernest
+    - Cecil, Rupert William Ernest Gascoyne
+    birthdate: *id001
+    deathdate: 1936
+    gutenberg_agent_id: '41410'
+    url: http://www.gutenberg.org/2009/agents/41410
+description: ''
+gutenberg_issued: '2013-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41878'
+  lccn: '13008323'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Missions -- China'
+- !lcsh 'China'
+title: Changing China
+url: http://www.gutenberg.org/ebooks/41878
